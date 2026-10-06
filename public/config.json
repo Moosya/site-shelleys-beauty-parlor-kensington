@@ -1,0 +1,27 @@
+{
+  "shopName": "Shelley's Beauty Parlor",
+  "tagline": "Neighborhood beauty parlor on Dahill Road, Kensington",
+  "phone": "(347) 459-4537",
+  "address": "188 Dahill Rd, Brooklyn, NY 11218",
+  "hours": "Open daily 10:30 AM – 8:30 PM",
+  "photoUrl": "hero.jpg",
+  "services": [
+    {
+      "name": "Hair",
+      "description": "Haircuts, color, blowouts, and styling."
+    },
+    {
+      "name": "Brows & threading",
+      "description": "Eyebrow threading, shaping, and waxing."
+    },
+    {
+      "name": "Nails & facials",
+      "description": "Manicures and facials. Call or stop by to book."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "shelleys-beauty-parlor-kensington",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
